@@ -6,6 +6,12 @@
       "repo_path": ".config/sway",
       "type": "directory",
       "added_date": "2025-10-16T18:46:31.966572029-07:00"
+    },
+    {
+      "original_path": "/home/user/.config/waybar",
+      "repo_path": ".config/waybar",
+      "type": "directory",
+      "added_date": "2025-10-16T18:46:36.080229367-07:00"
     }
   ]
 }
