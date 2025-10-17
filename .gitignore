@@ -1,0 +1,10 @@
+# Dotman specific ignores
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+*~
+
+# Don't ignore the index file
+!index.json
